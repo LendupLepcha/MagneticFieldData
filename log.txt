@@ -1,0 +1,4 @@
+# This log contains the list of files requested
+# Date of the request : 2021-03-15 06:01:51 UT
+# Type : provisional
+kak20200314pmin.min.gz
